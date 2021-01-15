@@ -29,7 +29,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # Build settings
 # theme: minima
 # plugins:
-  - jekyll-feed
+#- jekyll-feed
 
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
