@@ -1,8 +1,8 @@
 title: Committing to Documentation
-description: >- # this means to ignore newlines until "baseurl:"
+description: The guide and documentation for the "Committing to Documentation" workshop
 theme: "just-the-docs"
-# remote_theme: pmarsceill/just-the-docs
 search_enabled: true
+#remote_theme: pmarsceill/just-the-docs
 #search_tokenizer_separator: /[\s/]+/
 #heading_anchors: true
 #color_scheme: "dark"
