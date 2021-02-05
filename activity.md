@@ -1,5 +1,5 @@
 ---
-title: Schedule
+title: Activity
 layout: default
 nav_order: 3
 ---
