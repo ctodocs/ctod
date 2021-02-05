@@ -11,10 +11,10 @@ Instructors:
 * Alison Rhonemus
 * Genevieve Havemeyer-King
 
-# Workshop pre-requisites
+## Workshop pre-requisites
 Please follow the below instrctuons prior to the workshop:
 
-## Mac OS
+### Mac OS
 * Install Visual Studio Code (https://code.visualstudio.com/) 
 * Create a GitHub account.
 * Download Github desktop, set it up, and log into your account
@@ -44,7 +44,7 @@ gem install jekyll bundler
 ```
 
 
-## Windows
+### Windows
 ...
 
 
