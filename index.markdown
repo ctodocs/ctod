@@ -77,12 +77,14 @@ gem install jekyll bundler
 # Schedule
 
 | **Time** | **Activity** | **Notes** |
-|   -----          |     -----      |     -----      |
-|   1:00PM - 1:15AM EST      |  Welcome & Introductions |      Nick intros   |
-|   1:15AM - #### EST        | GitHub Basics  |      Intro and usage   |
-|   12:00PM - 12:15PM EST    |  Thinking about docs |     Notes about this     |
-|   12:15PM - 12:45PM EST    |  Break |      Snack time!     |
-|   1:15PM - 1:30PM EST      |  Writing docs: Markdown |      Notes about this   |
-|   1:30PM - 2:00PM EST      |  Activity: Forking and committing |      Seems boring but it's not     |
-|   2:00PM - 2:15PM EST      |  Site structuring  |      Notes about this     |
-|   2:15PM - 2:45PM EST      |  Show n Tell |      Show us your docs!     |
+|     -----          |     -----      |     -----      |
+|   1:00 PM - 1:15 PM       |  Introductions |      Nick introduces the workshop   |
+|   1:15 AM - 1:25 PM         |   Intro to Ruby, Jekyll, and GitHub  |      Intro and usage   |
+|   1:25 AM - 1:45 PM         |   Testing Setup & Activity 1  |      Fork & Serve   |
+|   1:45 PM - 2:15 PM     |  Thinking about docs |     Approaches to planning and structuring content     |
+|   2:15 PM - 2:30 PM   |  Mini Break |      Snack time!     |
+|   2:30 PM - 3:00 PM   |  Writing docs   |      Activity 3: Markdown time!   |
+|   3:00PM - 3:30PM   |  Site structuring |      What goes where and how     |
+|   3:30PM - 3:45PM   |  Break #2 |      More snacks!     |
+|   3:45PM - 4:15PM   |   Collaborating on docs  |      Activity 4: Groups! Working together and making changes     |
+|   4:15PM - 5:00PM   |  Show n Tell / Q & A |      Show us your docs!     |
