@@ -27,3 +27,10 @@ remote_theme: pmarsceill/just-the-docs
 #heading_anchors: true
 #color_scheme: "dark"
 #theme: "just-the-docs"
+
+aux_links:
+  "Committing to Documentation on GitHub":
+    - "//github.com/ctodocs/ctod"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
