@@ -50,6 +50,7 @@ Note: This will set version 2.7.2 as your default Ruby version. If you're workin
 ```
 rbenv global 2.7.2
 ```
+* Restart your terminal
 
 * Download / update Ruby gems: 
 ```
