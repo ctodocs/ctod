@@ -13,14 +13,11 @@ Instructors:
 
 ## Workshop pre-requisites
 Please follow the below instrctuons prior to the workshop:
-
-### Mac OS
 * Install Visual Studio Code (https://code.visualstudio.com/) 
 * Create a GitHub account.
 * Download Github desktop, set it up, and log into your account
-* Install Jekyll prerequisites
-  * You can use the Jekyll Quickstart Guide to continue your installation (and troubleshoot issues); the below instructions duplicate those instructions, but are written in the context of this workshop:
 
+### Mac OS
 Open a terminal window to continue with the following. 
 
 * Install Homebrew 
@@ -31,15 +28,15 @@ Open a terminal window to continue with the following.
 ```
 brew install git
 ```
-*  [Install rbenv](https://github.com/rbenv/rbenv#installation)
+*  Install [rbenv](https://github.com/rbenv/rbenv#installation)
 ```
 brew install rbenv
 ```
-  * set up rbenv for your shell; follow the printed commands after running...:
-  ```
-  rbenv init
-  ```
-* Check your installation
+* Set up rbenv for your shell; follow the printed commands after running...:
+```
+rbenv init
+```
+* Check your installation (you should see a bunch of "OK"s)
 ```
 curl -fsSL https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-doctor | bash
 ```
@@ -49,6 +46,7 @@ rbenv install 2.7.2
 ```
 
 * Set Ruby 2.7.2 as your global version
+Note: This will set version 2.7.2 as your default Ruby version. If you're working on other Ruby projects with the computer you're using for this workshop, feel free to contact us for help maintaining multiple versions.
 ```
 rbenv global 2.7.2
 ```
@@ -69,7 +67,9 @@ gem install jekyll bundler
 
 
 ### Windows
-...
+* Download and install a Ruby+Devkit version from [RubyInstaller Downloads](https://rubyinstaller.org/downloads/). Use default options for installation.
+* Run the `ridk install` step on the last stage of the installation wizard. This is needed for installing gems with native extensions. You can find additional information regarding this in the [RubyInstaller Documentation}(https://github.com/oneclick/rubyinstaller2#using-the-installer-on-a-target-system)
+* Open a new command prompt window from the start menu, so that changes to the PATH environment variable becomes effective. Install Jekyll and Bundler using `gem install jekyll bundler`
 
 
 
@@ -79,7 +79,7 @@ gem install jekyll bundler
 | **Time** | **Topic** | **Activity** |
 |     -----          |     -----      |     -----      |
 |   1:00 PM - 1:15 PM       |  Introductions |      Tell us about you   |
-|   1:15 AM - 1:45 PM         |   Intro to Ruby, Jekyll, and GitHub  |     Fork & Serve   
+|   1:15 AM - 1:45 PM         |   Intro to Ruby, Jekyll, and GitHub  |     Commit, Fork & Serve   |
 |   1:45 PM - 2:15 PM     |  Writing documentation |     Planning and drafting      |
 |   2:15 PM - 2:30 PM   |  Mini Break |      Eat snacks!     |
 |   2:30 PM - 3:00 PM   |  Writing in Markdown   |      Converting notes to a doc   |
