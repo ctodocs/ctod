@@ -16,9 +16,9 @@ Please follow the below instrctuons prior to the workshop:
 * Install Visual Studio Code (https://code.visualstudio.com/) 
 * Create a GitHub account.
 * Download Github desktop, set it up, and log into your account
+* Open a terminal window and continue with the following steps for your operating system.
 
 ### Mac OS
-Open a terminal window to continue with the following. 
 
 * Install Homebrew 
 ```
