@@ -79,9 +79,9 @@ gem install jekyll bundler
 
 | **Time** | **Topic** | **Activity** |
 |     -----          |     -----      |     -----      |
-|   1:00 PM - 1:15 PM       |  Introductions |      Tell us about you   |
-|   1:15 AM - 1:45 PM         |   Intro to Ruby, Jekyll, and GitHub  |     Commit, Fork & Serve   |
-|   1:45 PM - 2:15 PM     |  Writing documentation |     Planning and drafting      |
+|   1:00 PM - 1:15 PM   |   Introductions |   Tell us about you   |
+|   1:15 AM - 1:45 PM   |   Intro to Ruby, Jekyll, and GitHub   |   Commit, Fork & Serve   |
+|   1:45 PM - 2:15 PM   |  Writing documentation |     Planning and drafting      |
 |   2:15 PM - 2:30 PM   |  Mini Break |      Eat snacks!     |
 |   2:30 PM - 3:00 PM   |  Writing in Markdown   |      Converting notes to a doc   |
 |   3:00PM - 3:30PM   |  Site structure |      Organizing and connecting docs     |
