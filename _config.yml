@@ -25,7 +25,7 @@ search_enabled: true
 remote_theme: pmarsceill/just-the-docs
 #search_tokenizer_separator: /[\s/]+/
 #heading_anchors: true
-color_scheme: "dark"
+color_scheme: dark
 #theme: "just-the-docs"
 
 aux_links:
