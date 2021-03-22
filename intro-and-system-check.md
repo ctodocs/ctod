@@ -12,13 +12,13 @@ nav_order: 2
 
 3. Fork this repository and go to your fork.
 
-4. Go to your Fork’s repository settings, and then to GitHub Pages settings. Click on the "source branch" drop down and select ‘gh-pages’.
+4. Go to your Fork’s repository settings, and then to GitHub Pages settings. Click on the drop down menu below "Source" and select ‘gh-pages’.
 
-5. Here you'll also see your site link - click the URL to view your site (or reload if you've already got it open). You should see a website.
+5. Here you should see your site linkas well - click the URL to view your site (or reload if you've already got it open).
 
-6. Open GitHub Desktop, and clone this repo (File > Clone). It should show up in your list of owned repositories, but if not, head back over to the front page of the repo and copy/paste the URL and use that. Once back in GitHub Desktop, be sure youre in the ```gh-pages``` branch.
+6. Open GitHub Desktop, and clone this repo to your local system (File > Clone). It should show up in your list of owned repositories, but if not, head back over to the front page of the repo in the browser and copy/paste the URL then use that. Once back in GitHub Desktop and you've cloned the repo, be sure youre in the ```gh-pages``` branch.
 
-7. The destination for this repo will be ```yourusername/Documents/Github/futureDocs``` by default, unless you've updated your destination preferences in GitHub Desktop.
+7. Note: The destination for this repo will be ```yourusername/Documents/Github/futureDocs``` by default, unless you've updated your destination preferences in GitHub Desktop.
 
 8. Open a terminal window and navigate to your local repository
 ```
