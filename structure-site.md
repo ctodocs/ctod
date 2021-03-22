@@ -27,7 +27,8 @@ The structure of your pages and the site should be consistent. Make sure the org
 ## Table of Contents
 * ```{:toc}``` to autogenerate with kramdown.
 * ```{: .no_toc }``` and ```{: .no_toc .text-delta }``` to exclude table of contents.
-* Use the same organization for navigation and documents where possible - link where not possible.cs
+* Use the same organization for navigation and documents where possible - link where not possible.
+* See [just-the-docs](https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/){:target="_blank"} for more examples.
 * Use ```details``` and ```summary``` elements to create an expandable TOC.
 
 <div class="code-example" markdown="1">
