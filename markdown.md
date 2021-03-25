@@ -447,7 +447,7 @@ These pieces of executable code are wrapped in curly braces, `{}`.
 For example:
 * Double curly braces `{{ }}` are used for variables, for example, `{{ site.url }}` is the url for your site.
 * A curly brace followed by a colon `{: }` is used for CSS class. For example, `{: .toc }` creates a document element with a .toc class.
-* A curly brace with percent signs `{% %}` is used for executable statements. For example, `{% highlight ruby %} ... {% endhighlight %}` is a plugin that adds ruby syntax highlighting to a code block. 
+* A curly brace with percent signs {% raw %}`{% %}`{% endraw %} is used for executable statements. For example, `{% highlight ruby %} ... {% endhighlight %}` is a plugin that adds ruby syntax highlighting to a code block. 
 
 These features are good for extending the functionality of your documentation, but they should be explored after completing your text.
 
