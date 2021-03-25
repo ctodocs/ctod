@@ -114,7 +114,8 @@ This website holds the documentation for the New Amsterdam Research Libary (NARL
 * Consider the detail of documentation.
 * Consider the use of sensitive information (passwords).
 * Consider the use of institutional and professional acronyms.
-* Consider how to display contact information.  
+* Consider how to display contact information.
+
 ## TL;DR
 * First things first.
 * No negative or double negative gotchas.
