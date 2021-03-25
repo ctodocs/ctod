@@ -3,7 +3,6 @@ title: Writing Documentation
 layout: default
 nav_order: 3
 ---
-<!-- Add Activity, heading anchors -->
 # Writing Documentation
 This workshop focuses on writing documentation for libraries and other cultural institutions.  
 At the end of this section you will draft a document. See [Activity](#activity)              
@@ -117,6 +116,7 @@ This website holds the documentation for the New Amsterdam Research Libary (NARL
 * Consider the use of sensitive information (passwords).
 * Consider the use of institutional and professional acronyms.
 * Consider how to display contact information.  
+* Consider how to display contact information.
 
 ## TL;DR
 * First things first.
