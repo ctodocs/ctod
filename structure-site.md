@@ -66,6 +66,7 @@ The transfer software will depend on the type of device. See the associated docu
 {:toc}
 </details>
 ```
+</div>
 
 # Activity
 * Change the ```nav_order:``` number on the front matter of a page.  
