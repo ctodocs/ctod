@@ -3,10 +3,12 @@ title: Writing Documentation
 layout: default
 nav_order: 3
 ---
+<!-- Add Activity, heading anchors -->
 # Writing Documentation
 This workshop focuses on writing documentation for libraries and other cultural institutions.  
+At the end of this section you will draft a document. See [Activity](#activity)              
 ## What are you writing?
-The documents you write today will contain markdown and be published to Github Pages.
+The documents you write today will contain markdown and be published to Github Pages. The draft you write at the end of this section can be written in Google Docs or a text editor.  
 ## What is the purpose of your documentation?
 The purpose of your documentation will influence the technical style you use.
 ### Provide instructions
@@ -54,7 +56,7 @@ Writing documentation for a public audience may require additional consideration
 </div>
 * Keep the number of grouped documents manageable.
 * Use 1 or 2 levels of facets.
-    * See [Clarity](###Clarity) section.
+    * See [Clarity](#clarity) section.
 * Link related documents.
 * Balance linking to other documents with repeating information within documents.
 ### Clarity
@@ -115,6 +117,7 @@ This website holds the documentation for the New Amsterdam Research Libary (NARL
 * Consider the use of sensitive information (passwords).
 * Consider the use of institutional and professional acronyms.
 * Consider how to display contact information.  
+
 ## TL;DR
 * First things first.
 * No negative or double negative gotchas.
@@ -122,3 +125,10 @@ This website holds the documentation for the New Amsterdam Research Libary (NARL
     * You may think repetition will lull users into skipping instructions but it’s easier for users that are reading along as they perform the instructions.
 * It’s tempting to provide as much information as possible. Make sure sentences are short enough to be skimmed.
 * Lists can be numbered but don’t use fractions or combine letter and number hierarchies.
+
+# Activity
+* Choose a document type.  
+* Consider your audience.  
+* Write clearly.  
+* Save your document for conversion to Markdown in the next section.  
+
