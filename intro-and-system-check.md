@@ -35,7 +35,6 @@ nav_order: 2
 ├── package.json
 ├── _config.yml
 ├── about.markdown
-├── adminDocs
 ├── about.markdown
 ├── index.markdown
 └── README.md
@@ -72,3 +71,20 @@ bundle exec jekyll serve
 ```
 Ctrl+c
 ```
+
+## A Word About Testing and making Commits
+
+The essential process for editing pages will go as follows:
+
+* edit
+* save
+* serve locally (and edit more if need be)
+* commit
+* push
+* check published site
+
+When you're updating documentation, it's best to group commits around related changes, rather than changing lots of different things all at once in a single commit. This makes it easier to roll back specific changes without having to re-do tons of other work. 
+
+You might start off with a big import of complete docs, but from there it's a good idea to be systematic about updates.
+
+
