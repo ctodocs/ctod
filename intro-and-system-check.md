@@ -21,7 +21,7 @@ nav_order: 2
  
 7. Note: The local destination for this repo will be in your Documents folder, within a GitHub folder (```yourusername/Documents/Github/futureDocs```) by default, unless you've updated your destination preferences in GitHub Desktop.
  
-8. Open your project in VSCode. Your repository will be visible in the explorer, and you should see the following files:
+8. Open your project in VSCode. Your repository will be visible in the explorer, and you should see the following:
  
 ```
 .
@@ -36,8 +36,6 @@ nav_order: 2
 ├── _config.yml
 ├── about.markdown
 ├── adminDocs
-├── docTemplates.md
-    └── contributionPolicy.md
 ├── about.markdown
 ├── index.markdown
 └── README.md
