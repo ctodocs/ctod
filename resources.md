@@ -20,7 +20,7 @@ Below is our "bibliography" and some links to other organzations' amazing docs s
 
 [NYPL Digital Archives](https://nypl.github.io/digarch/)
 
-[NYPL Born-Digital Documentation (WIP)](https://nypl.github.io/born-digital-docs/
+[NYPL Born-Digital Documentation (WIP)](https://nypl.github.io/born-digital-docs/)
 
 ## Wiki Based Documentation
 
