@@ -16,7 +16,7 @@ Below is our "bibliography" and some links to other organzations' amazing docs s
 
 [Government Digital Service (UK)](https://tdt-documentation.london.cloudapps.digital/#technical-documentation-template)
 
-[NYPL Preservation of Audio and Moving Images](https://nypl.github.io/pami-docs/)
+[NYPL Preservation of Audio and Moving Images](https://nypl.github.io/ami-preservation/)
 
 [NYPL Digital Archives](https://nypl.github.io/digarch/)
 
