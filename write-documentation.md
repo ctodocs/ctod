@@ -5,7 +5,7 @@ nav_order: 3
 ---
 # Writing Documentation
 This workshop focuses on writing documentation for libraries and other cultural institutions.  
-At the end of this section you will draft a document. See [Activity](#activity)              
+At the end of this section you will draft a document. See [Activity](#activity).              
 ## What are you writing?
 The documents you write today will contain markdown and be published to Github Pages. The draft you write at the end of this section can be written in Google Docs or a text editor.  
 ## What is the purpose of your documentation?
@@ -116,7 +116,7 @@ This website holds the documentation for the New Amsterdam Research Libary (NARL
 * Consider the use of sensitive information (passwords).
 * Consider the use of institutional and professional acronyms.
 * Consider how to display contact information.  
-* Consider how to display contact information.
+
 
 ## TL;DR
 * First things first.
