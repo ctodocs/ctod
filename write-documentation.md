@@ -4,12 +4,13 @@ layout: default
 nav_order: 3
 ---
 # Writing Documentation
-This workshop focuses on writing documentation for libraries and other cultural institutions.  
+This workshop focuses on writing documentation for libraries and other cultural institutions. Before attending the workshop, write a document to edit during the course of the workshop.  
+This page will guide you in creating the document you will edit during the workshop.  
 At the end of this section you will draft a document. See [Activity](#activity).              
 ## What are you writing?
-The documents you write today will contain markdown and be published to Github Pages. The draft you write at the end of this section can be written in Google Docs or a text editor.  
+The documents you write during th workshop will contain markdown and be published to Github Pages. The draft you write at the end of this section can be written in Google Docs or a text editor.  
 ## What is the purpose of your documentation?
-The purpose of your documentation will influence the technical style you use.
+The purpose of your documentation will influence the technical style you use. Consider the information you want to provide and decide on how best to structure the content.  
 ### Provide instructions
 Step-by-step instructions can include bulleted or numbered lists and are more likely to use short phrases or sentences than paragraphs. Introductory paragraphs can be helpful but instructional text should be short and clear.
 ### Map a workflow
@@ -130,5 +131,5 @@ This website holds the documentation for the New Amsterdam Research Libary (NARL
 * Choose a document type.  
 * Consider your audience.  
 * Write clearly.  
-* Save your document for conversion to Markdown in the next section.  
+* Save your document for conversion to Markdown in the workshop.  
 
