@@ -38,7 +38,7 @@ rbenv init
 ```
 * Check your installation (you should see a bunch of "OK"s)
 ```
-curl -fsSL https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-doctor | bash
+curl -fsSL https://github.com/rbenv/rbenv-installer/raw/main/bin/rbenv-doctor | bash
 ```
 * Install Ruby 2.7.2 using rbenv, which is not the latest version, but is the version required for GitHub Pages.
 ```
