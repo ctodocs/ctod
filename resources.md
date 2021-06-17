@@ -33,3 +33,6 @@ Below is our "bibliography" and some links to other organzations' amazing docs s
 [UC Efficient Archival Processing Guidelines](https://libraries.universityofcalifornia.edu/groups/files/hosc/docs/_Efficient_Archival_Processing_Guidelines_v3-1.pdf)
 
 [UMass Amherst Guidelines for Digitization](https://www.library.umass.edu/assets/Digital-Strategies-Group/Guidelines-Policies/UMass-Amherst-Libraries-Best-Practice-Guidelines-for-Digitization-20110523-templated.pdf)
+
+## Markdown
+[GitHub Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
