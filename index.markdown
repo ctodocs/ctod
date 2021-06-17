@@ -32,9 +32,14 @@ brew install git
 ```
 brew install rbenv
 ```
-* Set up rbenv for your shell; follow the printed commands after running...:
+* Set up rbenv for your shell:
 ```
 rbenv init
+```
+* Setup your terminal to start rbenv on open:
+```
+echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
+source ~/.bash_profile
 ```
 * Check your installation (you should see a bunch of "OK"s)
 ```
