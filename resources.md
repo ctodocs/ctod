@@ -39,3 +39,4 @@ Below is our "bibliography" and some links to other organzations' amazing docs s
 
 ## Other Static Site Generators
 [Python Docs running on Sphinx](https://docs.python.org/3/)
+[Gov Docs running on Hugo](https://gohugo.io/showcase/digitalgov/)
